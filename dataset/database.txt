@@ -1,0 +1,44 @@
+{
+  "questions": [
+    {
+      "question": "Hello",
+      "answer": "Hey there!"
+    },
+    {
+      "question": "welcome",
+      "answer": "I appreciated \ud83d\ude0a. Do you have more questions then feel free to ask"
+    },
+    {
+      "question": "hey",
+      "answer": "Hey what's up \ud83e\udee0!"
+    },
+    {
+      "question": "how are you?",
+      "answer": "I'm well, what about you?"
+    },
+    {
+      "question": "I'm fine",
+      "answer": "Oh wow \u270c\ufe0f! How can I assist you?"
+    },
+    {
+      "question": "Hey there",
+      "answer": "Hey again! How can I help you?"
+    },
+    {
+      "question": "what are you doing right now?",
+      "answer": "I'm here to assist you with any questions or tasks you have. How can I help you today?"
+    },
+    {
+      "question": "hi",
+      "answer": "Hey how can I help you?"
+    },
+    {
+      "question": "what is your name",
+      "answer": "FunnyBot"
+    },
+    {
+      "question": "who is the father of python",
+      "answer": "Guido Van Rossum"
+    }
+  ]
+}
